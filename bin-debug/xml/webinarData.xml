@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<content>
+	<webinars id="1">
+	    <url>http://cdn.informa.com.lg1x8.simplecdn.net/com_series/gsm_me_2009_promo.f4v</url>
+	</webinars>
+	<webinars id="2">
+	    <url>http://media2.telecoms.com/loader_flash/cws_slide/webinars/cws_photo2.png</url>
+	</webinars>
+	<webinars id="3">
+	    <url>http://media2.telecoms.com/loader_flash/cws_slide/webinars/cws_photo3.png</url>
+	</webinars>
+	<webinars id="4">
+	    <url>http://media2.telecoms.com/loader_flash/cws_slide/webinars/cws_photo4.png</url>
+	</webinars>
+	<webinars id="5">
+	    <url>http://media2.telecoms.com/loader_flash/cws_slide/webinars/cws_photo5.png</url>
+	</webinars>	
+</content>

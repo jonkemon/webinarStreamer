@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="vertical" height="100%" width="100%" backgroundColor="#CCCCCC"
+	paddingTop="0" paddingRight="0" paddingBottom="0"
+	paddingLeft="0" creationComplete="videoContainer.loadXML()">
+	<control:PTController xmlns:control="com.telecoms.media.webinarStreamer.control.*"/>
+	<rds:Services xmlns:rds="com.telecoms.media.webinarStreamer.business.*"/>
+	<homePage:webinarHome xmlns:homePage="com.telecoms.media.webinarStreamer.view.videoPages.*" id="videoContainer"/>
+</mx:Application>
